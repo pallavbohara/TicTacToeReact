@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.thepsi.applinksample",
+    "sha256_cert_fingerprints":
+    ["BE:14:76:7D:8A:B9:4D:2D:81:13:FB:87:1E:D5:AA:58:DC:14:04:66:98:AF:B8:50:9D:F6:3E:E5:F4:25:6A:36"]
+  }
+}]
